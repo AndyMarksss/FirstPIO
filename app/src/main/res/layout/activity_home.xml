@@ -5,16 +5,110 @@
     android:id="@+id/button1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:background="@drawable/background_home"
+    tools:context=".Home">
 
-    <ImageButton
-        android:id="@+id/imageButton2"
-        android:layout_width="134dp"
-        android:layout_height="145dp"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/background_color"
-        tools:layout_editor_absoluteX="60dp"
-        tools:layout_editor_absoluteY="121dp"
-        tools:src="@android:drawable/ic_menu_compass"
-        tools:ignore="MissingConstraints" />
+
+    <!--colocar a página que irá abrir em onClick-->
+    <!--Não esquecer de ativar antes na class correspondente ao activity-->
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="68dp"
+        android:scaleX="2"
+        android:scaleY="2"
+        android:text="Educa + Laboral"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/botao1"
+        android:layout_width="186dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="168dp"
+        android:layout_marginEnd="210dp"
+        android:onClick="startpage1Activity"
+        android:rotationY="0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <ImageView
+        android:id="@+id/botao4"
+        android:layout_width="186dp"
+        android:layout_height="187dp"
+        android:layout_marginTop="380dp"
+        android:onClick="startpage4Activity"
+        android:rotationY="0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.928"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <ImageView
+        android:id="@+id/botao5"
+        android:layout_width="186dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="588dp"
+        android:layout_marginEnd="260dp"
+        android:onClick="startpage5Activity"
+        android:rotationY="0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <ImageView
+        android:id="@+id/botao6"
+        android:layout_width="186dp"
+        android:layout_height="187dp"
+        android:layout_marginTop="588dp"
+        android:onClick="startpage6Activity"
+        android:rotationY="0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.928"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <ImageView
+        android:id="@+id/botao2"
+        android:layout_width="186dp"
+        android:layout_height="187dp"
+        android:layout_marginTop="168dp"
+        android:onClick="startpage2Activity"
+        android:rotationY="0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.911"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <ImageView
+        android:id="@+id/botao3"
+        android:layout_width="186dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="380dp"
+        android:layout_marginEnd="210dp"
+        android:onClick="startpage3Activity"
+        android:rotationY="0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
+
