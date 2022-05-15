@@ -26,8 +26,8 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="394dp"
-        android:layout_height="749dp"
+        android:layout_width="379dp"
+        android:layout_height="584dp"
         android:autoSizeTextType="uniform"
         android:justificationMode="inter_word"
         android:scrollbarAlwaysDrawVerticalTrack="true"
@@ -36,10 +36,9 @@
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"></TextView>
+        app:layout_constraintVertical_bias="0.795"></TextView>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
