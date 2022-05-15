@@ -11,6 +11,8 @@
         android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp"
         android:background="@drawable/background_home"
         tools:context=".Home">
 
@@ -33,6 +35,22 @@
             app:layout_constraintVertical_bias="1.0"
             tools:ignore="MissingConstraints" />
 
+        <ImageView
+            android:id="@+id/botao1"
+            android:layout_width="286dp"
+            android:layout_height="286dp"
+            android:layout_centerInParent="true"
+            android:onClick="startpage1Activity"
+            android:scaleX="0.5"
+            android:scaleY="0.5"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.077"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.238"
+            app:srcCompat="@drawable/beneficios" />
+
         <TextView
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
@@ -49,106 +67,92 @@
 
         <ImageView
             android:id="@+id/botao3"
-            android:layout_width="186dp"
-            android:layout_height="187dp"
+            android:layout_width="286dp"
+            android:layout_height="286dp"
             android:layout_centerInParent="true"
             android:onClick="startpage3Activity"
-            android:scaleX="0.8"
+            android:scaleX="0.7"
             android:scaleY="0.8"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.022"
+            app:layout_constraintHorizontal_bias="0.077"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.601"
+            app:layout_constraintVertical_bias="0.557"
             app:srcCompat="@drawable/compensatoria" />
 
         <ImageView
             android:id="@+id/botao4"
-            android:layout_width="186dp"
-            android:layout_height="187dp"
+            android:layout_width="286dp"
+            android:layout_height="286dp"
             android:layout_centerInParent="true"
             android:onClick="startpage4Activity"
             android:scaleX="0.8"
             android:scaleY="0.8"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.973"
+            app:layout_constraintHorizontal_bias="0.922"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.601"
+            app:layout_constraintVertical_bias="0.557"
             app:srcCompat="@drawable/corre"
             tools:ignore="MissingConstraints" />
 
         <ImageView
-            android:id="@+id/botao1"
-            android:layout_width="186dp"
-            android:layout_height="187dp"
-            android:layout_centerInParent="true"
-            android:onClick="startpage1Activity"
-            android:scaleX="0.5"
-            android:scaleY="0.5"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.024"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.238"
-            app:srcCompat="@drawable/beneficios" />
-
-        <ImageView
-            android:id="@+id/botao6"
-            android:layout_width="186dp"
-            android:layout_height="187dp"
-            android:layout_centerInParent="true"
-            android:onClick="startpage6Activity"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.973"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.97"
-            app:srcCompat="@drawable/logo"
-            tools:ignore="MissingConstraints" />
-
-        <ImageView
-            android:id="@+id/botao5"
-            android:layout_width="186dp"
-            android:layout_height="187dp"
-            android:layout_centerInParent="true"
-            android:onClick="startpage5Activity"
-            android:scaleX="0.8"
-            android:scaleY="0.8"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.022"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.97"
-            app:srcCompat="@drawable/relax"
-            tools:ignore="MissingConstraints" />
-
-        <ImageView
             android:id="@+id/botao2"
-            android:layout_width="186dp"
-            android:layout_height="187dp"
+            android:layout_width="286dp"
+            android:layout_height="286dp"
             android:layout_centerInParent="true"
             android:onClick="startpage2Activity"
             android:scaleX="0.8"
             android:scaleY="0.8"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.975"
+            app:layout_constraintHorizontal_bias="0.922"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.238"
             app:srcCompat="@drawable/preparatoria"
             tools:ignore="MissingConstraints" />
 
+        <ImageView
+            android:id="@+id/botao5"
+            android:layout_width="286dp"
+            android:layout_height="286dp"
+            android:layout_centerInParent="true"
+            android:onClick="startpage5Activity"
+            android:scaleX="0.8"
+            android:scaleY="0.8"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.077"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.87"
+            app:srcCompat="@drawable/relax"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/botao6"
+            android:layout_width="286dp"
+            android:layout_height="286dp"
+            android:layout_centerInParent="true"
+            android:onClick="startpage6Activity"
+            android:scaleX="0.8"
+            android:scaleY="0.8"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.922"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.87"
+            app:srcCompat="@drawable/logo"
+            tools:ignore="MissingConstraints" />
+
         <TextView
             android:id="@+id/textView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="486dp"
+            android:layout_height="86dp"
             android:gravity="center"
             android:scaleX="2"
             android:scaleY="2"
