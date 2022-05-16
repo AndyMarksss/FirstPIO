@@ -2,8 +2,8 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:background="#FFFFFF"
     tools:context=".page5">
 
@@ -21,9 +21,9 @@
             android:overScrollMode="always"
             android:scaleY="1"
             android:text="Relaxamento"
-            android:textColor="#000000"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#000000"
             android:textSize="50dp"
             tools:ignore="MissingConstraints" />
 
@@ -45,13 +45,12 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="409dp"
-            android:layout_height="398dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.208"
             app:srcCompat="@drawable/cox" />
 
     </LinearLayout>

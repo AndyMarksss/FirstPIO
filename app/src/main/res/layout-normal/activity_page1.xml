@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:background="#47E620"
+    android:background="#C0C0C0"
     tools:context=".page1">
 
     <LinearLayout
@@ -21,7 +21,7 @@
             android:overScrollMode="always"
             android:scaleY="1"
             android:text="Benefícios"
-            android:textColor="#000000"
+            android:textColor="#F4F4F4"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textSize="50dp"
