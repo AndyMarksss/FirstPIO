@@ -22,17 +22,20 @@ public class page2 extends AppCompatActivity {
         textView = findViewById(R.id.text_view);
 
         //tempo de início
-        long duration = TimeUnit.MINUTES.toMillis(1);
+        long duration = TimeUnit.SECONDS.toMillis(30);
 
         //iniciar o contador
         new CountDownTimer(duration, 1000) {
             @Override
             public void onTick(long l) {
                 //converte milissegundos para minutos e segundos
-                String sDuration = String.format(Locale.ENGLISH,"%02d : %02d",
-                        TimeUnit.MILLISECONDS.toMinutes(1),
-                        TimeUnit.MILLISECONDS.toSeconds(1) -
-                        TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(1)));
+                String sDuration =
+                        String.format(
+                                Locale.ENGLISH,
+                                "%02d",
+                                TimeUnit.MILLISECONDS.toSeconds(l) -
+                                        TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(l))
+                        );
 
                 //converter string em text view
                 textView.setText(sDuration);

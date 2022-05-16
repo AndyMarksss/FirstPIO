@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/avatar_1.xml" value="0.152" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/avatar_10.xml" value="0.152" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/background_color.xml" value="0.1775" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/ic_camera_black_24dp.xml" value="0.152" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/ic_gallery_black_24dp.xml" value="0.152" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/ic_settings_black_24dp.xml" value="0.152" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/ic_timer.xml" value="0.1925" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/side_nav_bar.xml" value="0.152" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-large/activity_home.xml" value="0.1675929884566054" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-large/activity_main.xml" value="0.1513467293715263" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-large/activity_page1.xml" value="0.15321849501359927" />
@@ -29,6 +35,11 @@
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-small/activity_page4.xml" value="0.15307971014492755" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-small/activity_page5.xml" value="0.15307971014492755" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-small/activity_page6.xml" value="0.15307971014492755" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w1240dp/activity_test.xml" value="0.1" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w1240dp/content_test.xml" value="0.1" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w600dp/activity_test.xml" value="0.17299205648720212" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w600dp/content_test.xml" value="0.17299205648720212" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w600dp/item_transform.xml" value="0.17299205648720212" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-xlarge/activity_home.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-xlarge/activity_main.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-xlarge/activity_page1.xml" value="0.1" />
@@ -40,11 +51,21 @@
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_home.xml" value="0.1675929884566054" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page1.xml" value="0.1" />
-        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page2.xml" value="0.13541666666666666" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page2.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page3.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page4.xml" value="0.1513467293715263" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page5.xml" value="0.1513467293715263" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page6.xml" value="0.1513467293715263" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_test.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/content_test.xml" value="0.21" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/fragment_reflow.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/fragment_settings.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/fragment_slideshow.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/item_transform.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/nav_header_test.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/menu/bottom_navigation.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/menu/navigation_drawer.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/menu/overflow.xml" value="0.1675929884566054" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3635" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_color.xml" value="0.27" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_home.xml" value="0.27" />
