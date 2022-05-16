@@ -61,7 +61,21 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.601"
-            app:srcCompat="@drawable/compensatoria" />
+            app:srcCompat="@drawable/compensatoria"
+            tools:ignore="SpeakableTextPresentCheck" />
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Compensatória"
+            app:layout_constraintBottom_toBottomOf="@+id/botao3"
+            app:layout_constraintEnd_toEndOf="@+id/botao3"
+            app:layout_constraintHorizontal_bias="0.525"
+            app:layout_constraintStart_toStartOf="@+id/botao3"
+            app:layout_constraintTop_toTopOf="@+id/botao3"
+            app:layout_constraintVertical_bias="1.0"
+            tools:ignore="MissingConstraints" />
 
         <ImageView
             android:id="@+id/botao4"
@@ -78,8 +92,20 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.601"
             app:srcCompat="@drawable/corre"
+            tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Corretiva"
+            app:layout_constraintBottom_toBottomOf="@+id/botao4"
+            app:layout_constraintEnd_toEndOf="@+id/botao4"
+            app:layout_constraintHorizontal_bias="0.525"
+            app:layout_constraintStart_toStartOf="@+id/botao4"
+            app:layout_constraintTop_toTopOf="@+id/botao4"
+            app:layout_constraintVertical_bias="1.0"
             tools:ignore="MissingConstraints" />
-
         <ImageView
             android:id="@+id/botao1"
             android:layout_width="186dp"
@@ -90,25 +116,24 @@
             android:scaleY="0.5"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.024"
+            app:layout_constraintHorizontal_bias="0.022"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.238"
-            app:srcCompat="@drawable/beneficios" />
-
-        <ImageView
-            android:id="@+id/botao6"
-            android:layout_width="186dp"
-            android:layout_height="187dp"
+            app:layout_constraintVertical_bias="0.203"
+            app:srcCompat="@drawable/beneficios"
+            tools:ignore="SpeakableTextPresentCheck" />
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:onClick="startpage6Activity"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.973"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.97"
-            app:srcCompat="@drawable/logo"
+            android:text="Benefícios"
+            app:layout_constraintBottom_toBottomOf="@+id/botao5"
+            app:layout_constraintEnd_toEndOf="@+id/botao5"
+            app:layout_constraintHorizontal_bias="0.525"
+            app:layout_constraintStart_toStartOf="@+id/botao5"
+            app:layout_constraintTop_toTopOf="@+id/botao5"
+            app:layout_constraintVertical_bias="1.0"
             tools:ignore="MissingConstraints" />
 
         <ImageView
@@ -124,9 +149,9 @@
             app:layout_constraintHorizontal_bias="0.022"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.97"
+            app:layout_constraintVertical_bias="1.0"
             app:srcCompat="@drawable/relax"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
 
         <ImageView
             android:id="@+id/botao2"
@@ -141,9 +166,9 @@
             app:layout_constraintHorizontal_bias="0.973"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.238"
+            app:layout_constraintVertical_bias="0.203"
             app:srcCompat="@drawable/preparatoria"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/textView"
@@ -156,9 +181,10 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.087"
+            app:layout_constraintVertical_bias="0.062"
             tools:ignore="MissingConstraints"
             tools:text="Educa + Laboral" />
 

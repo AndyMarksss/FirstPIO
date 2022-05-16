@@ -38,9 +38,7 @@ public class Home extends AppCompatActivity {
     public void startpage5Activity (View view) {
         Intent page5 = new Intent(this, page5.class);
         startActivity(page5);
-    }
-    public void startpage6Activity (View view) {
-        Intent page6 = new Intent(this, page6.class);
-        startActivity(page6);
+
+
     }
 }
