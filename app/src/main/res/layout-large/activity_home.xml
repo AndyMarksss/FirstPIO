@@ -15,6 +15,7 @@
         tools:context=".Home">
 
 
+
         <!--colocar a página que irá abrir em onClick-->
         <!--Não esquecer de ativar antes na class correspondente ao activity-->
 
@@ -174,7 +175,7 @@
 
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center"

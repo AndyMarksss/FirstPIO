@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#b4b4b4"
+    android:background="@drawable/background_pages"
     tools:context=".page4">
 
     <LinearLayout
@@ -15,12 +15,13 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/title"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:overScrollMode="always"
             android:scaleY="1"
             android:text="Corretiva"
+            android:textColor="#f4f4f4"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textSize="50dp"
@@ -38,7 +39,7 @@
             android:justificationMode="inter_word"
             android:scrollbarAlwaysDrawVerticalTrack="true"
             android:text="A Ginástica Laboral evidencia as vantagens tanto para trabalhadores quanto para empresa, buscando melhorar a qualidade de vida dos funcionários, em aspectos fisiológicos, reduzindo lesões por falta de orientação apropriada, além da diminuição do percentual de gordura. Implementando a atividade para os funcionários, existe a redução de acidentes de trabalho, devidos alguns serem ocasionados por traumas cumulativos, redução de traumas, inflamações, tensão muscular, além de prevenir a fadiga muscular.  De acordo com uma pesquisa da empresa CPH Health, revelou que 49% dos funcionários das companhias brasileiras estão em um significativo nível de estresse. O levantamento, feito com 194.000 empregados de 200 organizações, mostrou também que 76% deles praticam atividade física insuficiente, 68% trabalham sentados a maior parte do dia, 48% têm elevado nível de ansiedade e 45% estão acima do peso ou obesos. A proposta de iniciar a GL na rotina do funcionário, além dos benefícios físicos também traz benefícios psicológicos, tais como: Reforça a autoestima, melhoria da atenção e concentração a atividades desempenhadas e favorece mudança da rotina. Observações:"
-            android:textColor="#14B4B4"
+            android:textColor="#000000"
             android:textSize="30dp"
             app:layout_constraintVertical_bias="0" />
 

@@ -19,6 +19,24 @@
         <!--Não esquecer de ativar antes na class correspondente ao activity-->
 
         <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:scaleX="2"
+            android:scaleY="2"
+            android:text="Educa + Laboral"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.062"
+            tools:ignore="MissingConstraints"
+            tools:text="Educa + Laboral" />
+
+        <TextView
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -169,24 +187,6 @@
             app:layout_constraintVertical_bias="0.203"
             app:srcCompat="@drawable/preparatoria"
             tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
-
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:scaleX="2"
-            android:scaleY="2"
-            android:text="Educa + Laboral"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.498"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.062"
-            tools:ignore="MissingConstraints"
-            tools:text="Educa + Laboral" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
