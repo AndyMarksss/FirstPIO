@@ -18,12 +18,12 @@ public class page4 extends AppCompatActivity {
 
     }
     /*ativar a activity que o botão irá abrir*/
-    public void startexercicio5relaxamentoActivity (View view) {
-        Intent exercicio5relaxamento = new Intent(this, com.example.educalabora.Exercicios.exercicio5_relaxamento.class);
-        startActivity(exercicio5relaxamento);
+    public void startexercicio7corretivaActivity (View view) {
+        Intent startexercicio7corretiva = new Intent(this, com.example.educalabora.Exercicios.exercicio7_corretiva.class);
+        startActivity(startexercicio7corretiva);
     }
-    public void startexercicio6relaxamentoActivity (View view) {
-        Intent exercicio6relaxamento = new Intent(this, com.example.educalabora.Exercicios.exercicio6_relaxamento.class);
-        startActivity(exercicio6relaxamento);
+    public void startexercicio8corretivaActivity (View view) {
+        Intent exercicio8corretiva = new Intent(this, com.example.educalabora.Exercicios.exercicio8_corretiva.class);
+        startActivity(exercicio8corretiva);
     }
 }

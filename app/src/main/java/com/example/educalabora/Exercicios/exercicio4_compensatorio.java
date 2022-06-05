@@ -24,8 +24,8 @@ public class exercicio4_compensatorio extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_exercicio4compensatorio);
-        ImageView img = (ImageView) findViewById(R.id.imageViewLoading);
-        Animatable animacao = (AnimationDrawable) img.getDrawable();
+        ImageView img4 = (ImageView) findViewById(R.id.imageViewLoading4);
+        Animatable animacao = (AnimationDrawable) img4.getDrawable();
         animacao.start();
 
 

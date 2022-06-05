@@ -23,8 +23,8 @@ public class exercicio1_preparatorio extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_exercicio1preparatorio);
-        ImageView img = (ImageView) findViewById(R.id.imageViewLoading);
-        Animatable animacao = (AnimationDrawable) img.getDrawable();
+        ImageView img1 = (ImageView) findViewById(R.id.imageViewLoading1);
+        Animatable animacao = (AnimationDrawable) img1.getDrawable();
         animacao.start();
 
         textView = findViewById(R.id.text_view);

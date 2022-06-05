@@ -39,7 +39,7 @@
             app:drawableTopCompat="@drawable/ic_timer" />
 
         <ImageView
-            android:id="@+id/imageViewLoading"
+            android:id="@+id/imageViewLoading4"
             android:layout_width="match_parent"
             android:layout_height="240dp"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -47,7 +47,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.208"
-            app:srcCompat="@drawable/list_loading" />
+            app:srcCompat="@drawable/along_pesc_esq" />
 
     </LinearLayout>
 

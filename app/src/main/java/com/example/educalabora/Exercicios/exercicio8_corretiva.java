@@ -23,8 +23,8 @@ public class exercicio8_corretiva extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_exercicio8corretiva);
-        ImageView img = (ImageView) findViewById(R.id.imageViewLoading);
-        Animatable animacao = (AnimationDrawable) img.getDrawable();
+        ImageView img8 = (ImageView) findViewById(R.id.imageViewLoading8);
+        Animatable animacao = (AnimationDrawable) img8.getDrawable();
         animacao.start();
 
 

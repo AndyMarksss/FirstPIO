@@ -23,8 +23,8 @@ public class exercicio6_relaxamento extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_exercicio6relaxamento);
-        ImageView img = (ImageView) findViewById(R.id.imageViewLoading);
-        Animatable animacao = (AnimationDrawable) img.getDrawable();
+        ImageView img6 = (ImageView) findViewById(R.id.imageViewLoading6);
+        Animatable animacao = (AnimationDrawable) img6.getDrawable();
         animacao.start();
 
 
