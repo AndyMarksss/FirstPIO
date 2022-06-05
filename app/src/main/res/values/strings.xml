@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Animation</string>
+    <string name="txt_label_dwable_animation">Exemplo de Drawable Animation</string>
+</resources>

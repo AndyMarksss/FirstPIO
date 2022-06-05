@@ -97,7 +97,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:text="Corretiva"
+            android:text="Relaxamento"
             app:layout_constraintBottom_toBottomOf="@+id/botao4"
             app:layout_constraintEnd_toEndOf="@+id/botao4"
             app:layout_constraintHorizontal_bias="0.525"
@@ -132,12 +132,13 @@
             android:scaleY="0.8"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.022"
+            app:layout_constraintHorizontal_bias="0.024"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.97"
+            app:layout_constraintVertical_bias="0.969"
             app:srcCompat="@drawable/relax"
             tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
+
         <TextView
             android:id="@+id/textView7"
             android:layout_width="wrap_content"
