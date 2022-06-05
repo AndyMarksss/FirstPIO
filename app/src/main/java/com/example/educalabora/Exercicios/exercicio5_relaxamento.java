@@ -1,23 +1,35 @@
-package com.example.educalabora;
+package com.example.educalabora.Exercicios;
 
+import android.graphics.drawable.Animatable;
+import android.graphics.drawable.AnimationDrawable;
 import android.os.Bundle;
 import android.os.CountDownTimer;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.educalabora.R;
+
 import java.util.Locale;
 import java.util.concurrent.TimeUnit;
 
-public class page2 extends AppCompatActivity {
+public class exercicio5_relaxamento extends AppCompatActivity {
 
     TextView textView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_page2);
+        setContentView(R.layout.activity_exercicio5relaxamento);
+        ImageView img = (ImageView) findViewById(R.id.imageViewLoading);
+        Animatable animacao = (AnimationDrawable) img.getDrawable();
+        animacao.start();
+
+
+
 
         textView = findViewById(R.id.text_view);
 

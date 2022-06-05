@@ -9,30 +9,59 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Design.NoActionBar">
         <activity
-            android:name=".DwableAnimationActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".page1"
+            android:name=".Pages.page1"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".page2"
+            android:name=".Pages.page2"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".page3"
+            android:name=".Pages.page3"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".page4"
+            android:name=".Pages.page4"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".page5"
+            android:name=".Pages.page5"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Exercicios.exercicio1_preparatorio"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Exercicios.exercicio2_preparatorio"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Exercicios.exercicio3_compensatorio"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Exercicios.exercicio4_compensatorio"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Exercicios.exercicio5_relaxamento"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Exercicios.exercicio6_relaxamento"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Exercicios.exercicio7_corretiva"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Exercicios.exercicio8_corretiva"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity

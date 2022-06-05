@@ -1,4 +1,4 @@
-package com.example.educalabora;
+package com.example.educalabora.Exercicios;
 
 import android.graphics.drawable.Animatable;
 import android.graphics.drawable.AnimationDrawable;
@@ -10,26 +10,22 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.educalabora.R;
+
 import java.util.Locale;
 import java.util.concurrent.TimeUnit;
 
-public class page4 extends AppCompatActivity {
-
+public class exercicio1_preparatorio extends AppCompatActivity {
 
     TextView textView;
 
     @Override
-
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_page4);
-
+        setContentView(R.layout.activity_exercicio1preparatorio);
         ImageView img = (ImageView) findViewById(R.id.imageViewLoading);
         Animatable animacao = (AnimationDrawable) img.getDrawable();
         animacao.start();
-
-
-
 
         textView = findViewById(R.id.text_view);
 

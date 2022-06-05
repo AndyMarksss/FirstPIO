@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background_pages"
-    tools:context=".page3">
+    tools:context=".Pages.page3">
 
 
     <LinearLayout
@@ -21,8 +21,8 @@
             android:layout_height="match_parent"
             android:overScrollMode="always"
             android:scaleY="1"
-            android:textColor="#F4F4F4"
             android:text="Compensatório"
+            android:textColor="#F4F4F4"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textSize="50dp"
@@ -31,7 +31,7 @@
         <TextView
             android:id="@+id/textView4"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="742dp"
             android:layout_alignParentBottom="false"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
@@ -44,16 +44,35 @@
             android:textSize="20dp"
             app:layout_constraintVertical_bias="0" />
 
-        <ImageView
-            android:id="@+id/imageView"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:baselineAligned="false"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/cox" />
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="207dp"
+                android:layout_height="wrap_content"
+                android:onClick="startexercicio3compensatorioActivity"
+                android:text="Exercício 1" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="startexercicio4compensatorioActivity"
+                android:text="Exercício 2" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <Space
+                    android:layout_width="200dp"
+                    android:layout_height="200dp" />
+            </LinearLayout>
+        </LinearLayout>
 
     </LinearLayout>
 
