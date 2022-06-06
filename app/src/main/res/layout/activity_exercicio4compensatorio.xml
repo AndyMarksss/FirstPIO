@@ -60,7 +60,7 @@
             android:layout_marginBottom="0dp"
             android:justificationMode="inter_word"
             android:scrollbarAlwaysDrawVerticalTrack="true"
-            android:text="Coxinha"
+            android:text="Alongue o pescoço para o lado esquerdo, alongando o pescoço e ombro."
             android:textColor="#FFFFFF"
             android:textSize="20dp"
             app:layout_constraintVertical_bias="0" />

@@ -60,7 +60,12 @@
             android:layout_marginBottom="0dp"
             android:justificationMode="inter_word"
             android:scrollbarAlwaysDrawVerticalTrack="true"
-            android:text="Coxinha"
+            android:text="•Para começar, fique em pé ou sente-se.
+            \n•Em seguida, mantenha as costas retas.
+            \n•Então, erga os ombros lentamente em direção às orelhas.
+            \n•Permaneça nessa posição por alguns segundos.
+            \n•Depois, abaixe os ombros devagar e retorne ao posicionamento inicial.
+"
             android:textColor="#FFFFFF"
             android:textSize="20dp"
             app:layout_constraintVertical_bias="0" />

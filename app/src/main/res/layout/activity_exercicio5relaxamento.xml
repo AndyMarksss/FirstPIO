@@ -52,7 +52,7 @@
         <TextView
             android:id="@+id/textView4"
             android:layout_width="match_parent"
-            android:layout_height="742dp"
+            android:layout_height="200dp"
             android:layout_alignParentBottom="false"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
@@ -60,7 +60,10 @@
             android:layout_marginBottom="0dp"
             android:justificationMode="inter_word"
             android:scrollbarAlwaysDrawVerticalTrack="true"
-            android:text="Coxinha"
+            android:text="Sente-se em uma cadeira com as costas eretas. Incline o tronco para frente até tocar as coxas
+com o peito (ou bem perto isso) e estenda os braços. Você não precisa tocar os dedos dos pés,
+mas vá até onde conseguir. Fique assim por cinco a 30 segundos e, em seguida, apoie os
+braços nas pernas para voltar à posição inicial."
             android:textColor="#FFFFFF"
             android:textSize="20dp"
             app:layout_constraintVertical_bias="0" />

@@ -52,7 +52,7 @@
         <TextView
             android:id="@+id/textView4"
             android:layout_width="match_parent"
-            android:layout_height="742dp"
+            android:layout_height="340dp"
             android:layout_alignParentBottom="false"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
@@ -60,7 +60,11 @@
             android:layout_marginBottom="0dp"
             android:justificationMode="inter_word"
             android:scrollbarAlwaysDrawVerticalTrack="true"
-            android:text="Coxinha"
+            android:text="•A rotação de tronco na cadeira ajuda a aliviar dores na parte baixa dascostas e pode ser feita no trabalho. Mantenha os pés no chão enquanto estiver sentado;
+\n•Gire o tronco para a direita e mantenha o quadril no lugar e a coluna esticada;
+\n•Coloque a mão esquerda sobre o joelho direito para dar suporte ao alongamento, gire o tronco e mantenha os ombros paralelos;
+\n•Fique nessa posição por 10 segundos e depois repita o processo com o outro lado.
+"
             android:textColor="#FFFFFF"
             android:textSize="20dp"
             app:layout_constraintVertical_bias="0" />

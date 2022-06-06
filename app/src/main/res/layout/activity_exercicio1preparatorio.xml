@@ -60,7 +60,7 @@
             android:layout_marginBottom="0dp"
             android:justificationMode="inter_word"
             android:scrollbarAlwaysDrawVerticalTrack="true"
-            android:text="Coxinha"
+            android:text="Manter a coluna reta, estender um dos braços na direção contrária e, com o outro braço, puxá-lo em direção ao ombro. Realizar dos dois lados, por 10 segundos."
             android:textColor="#FFFFFF"
             android:textSize="20dp"
             app:layout_constraintVertical_bias="0" />

@@ -52,7 +52,7 @@
         <TextView
             android:id="@+id/textView4"
             android:layout_width="match_parent"
-            android:layout_height="742dp"
+            android:layout_height="150dp"
             android:layout_alignParentBottom="false"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
@@ -60,7 +60,7 @@
             android:layout_marginBottom="0dp"
             android:justificationMode="inter_word"
             android:scrollbarAlwaysDrawVerticalTrack="true"
-            android:text="Coxinha"
+            android:text="Agarre as mãos atrás das costas com as palmas juntas. Estique os braços e gire-os até que as palmas estejam direcionadas para baixo. Por fim, levante os braços e segure a posição até sentir um alongamento no bíceps."
             android:textColor="#FFFFFF"
             android:textSize="20dp"
             app:layout_constraintVertical_bias="0" />
