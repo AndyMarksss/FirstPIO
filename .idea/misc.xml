@@ -3,46 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_exercises.xml" value="0.3635" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_home.xml" value="0.3635" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_pages.xml" value="0.3585" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_splashscreen.xml" value="0.3595" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/ic_timer.xml" value="0.3635" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_home.xml" value="0.33" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_page1.xml" value="0.2941427960666952" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_page2.xml" value="0.2941427960666952" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_page3.xml" value="0.25" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_page4.xml" value="0.2941427960666952" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_page5.xml" value="0.13901760889712697" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_home.xml" value="0.33" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page1.xml" value="0.35833333333333334" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page2.xml" value="0.35833333333333334" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page3.xml" value="0.35833333333333334" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page4.xml" value="0.1388888888888889" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page5.xml" value="0.1388888888888889" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_home.xml" value="0.6850393700787402" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_page1.xml" value="0.9633891213389121" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_page2.xml" value="0.9633891213389121" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_page3.xml" value="0.9633891213389121" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_page4.xml" value="0.3303964757709251" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_page5.xml" value="0.6771653543307087" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_page1.xml" value="0.17916666666666667" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_page2.xml" value="0.17916666666666667" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_page3.xml" value="0.17916666666666667" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_page4.xml" value="0.1" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_page5.xml" value="0.1" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_exercicio1preparatorio.xml" value="0.3625" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_exercicio2preparatorio.xml" value="0.3625" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_home.xml" value="0.3625" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_main.xml" value="0.3625" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_page1.xml" value="0.3625" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_page2.xml" value="0.35833333333333334" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_page3.xml" value="0.3625" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_page4.xml" value="0.3625" />
-        <entry key="..\:/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_page5.xml" value="0.3625" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/avatar_1.xml" value="0.152" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/avatar_10.xml" value="0.152" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/background_color.xml" value="0.1775" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/background_exercises.xml" value="0.166" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/background_pages.xml" value="0.166" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/ic_camera_black_24dp.xml" value="0.152" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/ic_gallery_black_24dp.xml" value="0.152" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/ic_settings_black_24dp.xml" value="0.152" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/ic_timer.xml" value="0.1925" />
-        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-large/activity_home.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/drawable/side_nav_bar.xml" value="0.152" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-exercicios/activity_exercicio8.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-land/activity_home.xml" value="0.13638306968790082" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-large/activity_home.xml" value="0.33" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-large/activity_main.xml" value="0.1513467293715263" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-large/activity_page1.xml" value="0.15321849501359927" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-large/activity_page2.xml" value="0.15321849501359927" />
@@ -66,6 +39,12 @@
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-small/activity_page4.xml" value="0.15307971014492755" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-small/activity_page5.xml" value="0.15307971014492755" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-small/activity_page6.xml" value="0.15307971014492755" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-sw600dp/activity_home.xml" value="0.1" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w1240dp/activity_test.xml" value="0.1" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w1240dp/content_test.xml" value="0.1" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w600dp/activity_test.xml" value="0.17299205648720212" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w600dp/content_test.xml" value="0.17299205648720212" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-w600dp/item_transform.xml" value="0.17299205648720212" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-xlarge/activity_home.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-xlarge/activity_main.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-xlarge/activity_page1.xml" value="0.1" />
@@ -74,40 +53,48 @@
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-xlarge/activity_page4.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-xlarge/activity_page5.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout-xlarge/activity_page6.xml" value="0.1" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio1.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio1preparatorio.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio2.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio2preparatorio.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio3.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio3compensatorio.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio4.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio4compensatorio.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio5.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio5relaxamento.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio6.xml" value="0.1633176571184267" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio6relaxamento.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio7.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio7corretiva.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio8.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_exercicio8corretiva.xml" value="0.1675929884566054" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_home.xml" value="0.1675929884566054" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page1.xml" value="0.1" />
-        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page2.xml" value="0.13541666666666666" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page1.xml" value="0.25" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page2.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page3.xml" value="0.1" />
-        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page4.xml" value="0.1513467293715263" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page4.xml" value="0.1" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page5.xml" value="0.1513467293715263" />
         <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_page6.xml" value="0.1513467293715263" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/activity_test.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/content_test.xml" value="0.21" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/exercicio1.xml" value="0.16417272338606242" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/fragment_reflow.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/fragment_settings.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/fragment_slideshow.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/item_transform.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/layout/nav_header_test.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/menu/bottom_navigation.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/menu/navigation_drawer.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/menu/overflow.xml" value="0.1675929884566054" />
+        <entry key="..\:/Documents/Faculdade/Educa + Laboral/app/src/main/res/mipmap-anydpi-v26/icon_round.xml" value="0.148" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3635" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_color.xml" value="0.27" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_home.xml" value="0.27" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_splashscreen.xml" value="0.3635" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3635" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-land/activity_home.xml" value="0.5" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_home.xml" value="0.1" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_page1.xml" value="0.20008550662676358" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_page2.xml" value="0.2975630611372381" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-large/activity_page3.xml" value="0.20008550662676358" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_home.xml" value="0.3625" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page1.xml" value="0.29936594202898553" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page2.xml" value="0.29936594202898553" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page3.xml" value="0.29936594202898553" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page4.xml" value="0.29936594202898553" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page5.xml" value="0.29936594202898553" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-normal/activity_page6.xml" value="0.29936594202898553" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_home.xml" value="0.9811715481171548" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_page1.xml" value="0.32142857142857145" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_page2.xml" value="0.6914225941422594" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-small/activity_page3.xml" value="0.9811715481171548" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_home.xml" value="0.10272277227722772" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_page1.xml" value="0.121875" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_page2.xml" value="0.13634488448844884" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_page3.xml" value="0.121875" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout-xlarge/activity_page5.xml" value="0.13634488448844884" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_main.xml" value="0.20580235720761558" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_page1.xml" value="0.2176143651132963" />
@@ -116,7 +103,6 @@
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_page4.xml" value="0.2176143651132963" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_page5.xml" value="0.2176143651132963" />
         <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/layout/activity_page6.xml" value="0.2176143651132963" />
-        <entry key="..\:/Users/Andy/Documents/Faculdade Docs/Programacao/AndroidStudio/EducaLabora/app/src/main/res/mipmap-anydpi-v26/icon.xml" value="0.249" />
         <entry key="..\:/Users/Andy/Documents/Faculdade/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2655" />
         <entry key="..\:/Users/Andy/Documents/Faculdade/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_color.xml" value="0.227" />
         <entry key="..\:/Users/Andy/Documents/Faculdade/Programacao/AndroidStudio/EducaLabora/app/src/main/res/drawable/background_home.xml" value="0.205" />
@@ -130,6 +116,35 @@
         <entry key="..\:/Users/Andy/Documents/Faculdade/Programacao/AndroidStudio/EducaLabora/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.286" />
         <entry key="..\:/Users/Andy/Documents/Faculdade/Programacao/AndroidStudio/EducaLabora/app/src/main/res/mipmap-anydpi-v26/icon.xml" value="0.2895" />
         <entry key="..\:/Users/Andy/Documents/Faculdade/Programacao/AndroidStudio/EducaLabora/app/src/main/res/mipmap-anydpi-v26/icon_round.xml" value="0.27" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable-v24/preparatoria_ombro.xml" value="0.1" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/along_pesc_dir.xml" value="0.1" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/along_pesc_esq.xml" value="0.1575" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/along_pesc_frent.xml" value="0.1575" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/along_pesc_mov_cabec_dir.xml" value="0.112" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/coluna_quadril.xml" value="0.112" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/list_loading.xml" value="0.167" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/movimento_ombros.xml" value="0.112" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/ombro_anteb_cost.xml" value="0.112" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/prepatoria_cadeira.xml" value="0.1" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/relax_cadeira.xml" value="0.112" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout-normal/activity_page1.xml" value="0.22" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout-normal/activity_page3.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout-normal/activity_page4.xml" value="0.1" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout-normal/activity_page5.xml" value="0.1" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_exercicio1preparatorio.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_exercicio2preparatorio.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_exercicio4compensatorio.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_exercicio5relaxamento.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_exercicio6relaxamento.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_exercicio7corretiva.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_exercicio8corretiva.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page1.xml" value="0.20416666666666666" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page2.xml" value="0.1" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page3.xml" value="0.1" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page4.xml" value="0.1" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page5.xml" value="0.1" />
       </map>
     </option>
   </component>

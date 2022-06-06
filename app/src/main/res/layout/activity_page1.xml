@@ -20,10 +20,10 @@
             android:layout_height="match_parent"
             android:overScrollMode="always"
             android:scaleY="1"
-            android:text="Preparatória"
-            android:textColor="#F4F4F4"
+            android:text="Benefícios"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#F4F4F4"
             android:textSize="50dp"
             tools:ignore="MissingConstraints" />
 
