@@ -20,7 +20,7 @@
             android:layout_height="match_parent"
             android:overScrollMode="always"
             android:scaleY="1"
-            android:text="Exercício Cerretivo 1"
+            android:text="Exercício Corretivo 1"
             android:textColor="#f4f4f4"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
