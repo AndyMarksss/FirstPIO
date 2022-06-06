@@ -34,7 +34,7 @@ public class exercicio3_compensatorio extends AppCompatActivity {
         textView = findViewById(R.id.text_view);
 
         //tempo de início
-        long duration = TimeUnit.SECONDS.toMillis(30);
+        long duration = TimeUnit.SECONDS.toMillis(12);
 
         //iniciar o contador
         new CountDownTimer(duration, 1000) {
