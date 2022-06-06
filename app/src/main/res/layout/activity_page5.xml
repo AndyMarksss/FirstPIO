@@ -39,8 +39,9 @@
             android:justificationMode="inter_word"
             android:scrollbarAlwaysDrawVerticalTrack="true"
             android:text="Efetuada após o período de trabalho, cujo principal objetivo é oxigenar as estruturas musculares envolvidas durante o trabalho, prevenindo-as de possíveis lesões. O objetivo é direcionar exercícios com os de respiração com duração entre 10 a 20 minutos, onde também trabalharia a meditação, massagens ou outros procedimentos que gerem relaxamento.
+            "
             android:textColor="#f4f4f4"
-        android:textSize="20dp"
+            android:textSize="20dp"
             app:layout_constraintVertical_bias="0" />
 
         <LinearLayout
