@@ -127,8 +127,6 @@
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/ombro_anteb_cost.xml" value="0.112" />
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/prepatoria_cadeira.xml" value="0.1" />
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/drawable/relax_cadeira.xml" value="0.112" />
-        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout-large/activity_page2.xml" value="0.49" />
-        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout-large/activity_page3.xml" value="0.49" />
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout-normal/activity_page1.xml" value="0.25" />
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout-normal/activity_page2.xml" value="0.20416666666666666" />
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout-normal/activity_page3.xml" value="0.20416666666666666" />
@@ -146,7 +144,7 @@
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page1.xml" value="0.20416666666666666" />
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page2.xml" value="0.1" />
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page3.xml" value="0.22" />
-        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page4.xml" value="0.1" />
+        <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page4.xml" value="0.22" />
         <entry key="..\:/lib/visualvm/platform/FirstPIO/app/src/main/res/layout/activity_page5.xml" value="0.22" />
       </map>
     </option>

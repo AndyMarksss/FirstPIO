@@ -64,6 +64,7 @@
                 android:id="@+id/button"
                 android:layout_width="207dp"
                 android:layout_height="wrap_content"
+                android:background="@drawable/background_button"
                 android:onClick="startexercicio1preparatorioActivity"
                 android:text="Exercício 1" />
 
@@ -71,6 +72,7 @@
                 android:id="@+id/button2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@drawable/background_button"
                 android:onClick="startexercicio2preparatorioActivity"
                 android:text="Exercício 2" />
 
