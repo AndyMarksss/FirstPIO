@@ -30,7 +30,7 @@
         <TextView
             android:id="@+id/textView4"
             android:layout_width="match_parent"
-            android:layout_height="1410dp"
+            android:layout_height="1425dp"
             android:layout_alignParentBottom="false"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
@@ -59,12 +59,10 @@
             \n•Melhora da qualidade dos serviços prestados.
             \n•Melhora do clima organizacional;
             \n•Redução dos níveis de estresse/
-            \n•Ajuda na prevenção de doenças como ansiedade e depressão.\n"
+            \n•Ajuda na prevenção de doenças como ansiedade e depressão."
             android:textColor="#F4F4F4"
             android:textSize="20dp"
             app:layout_constraintVertical_bias="0" />
-
-
 
 
     </LinearLayout>

@@ -40,7 +40,7 @@ public class exercicio1_preparatorio extends AppCompatActivity {
                 String sDuration =
                         String.format(
                                 Locale.ENGLISH,
-                                "%02d:%02d",
+                                "%02d",
                                 TimeUnit.MILLISECONDS.toSeconds(l) -
                                         TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(l))
                         );
